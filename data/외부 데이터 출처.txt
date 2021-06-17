@@ -1,0 +1,8 @@
+외부 데이터 출처
+1. 일사, 일조, 강수량
+기상청 (기후통계분석 > 조건별통계)
+https://data.kma.go.kr/climate/RankState/selectRankStatisticsDivisionList.do?pgmNo=179
+
+2. 미세먼지
+에어코리아 (통계정보 > 최종확정자료조회)
+https://www.airkorea.or.kr/web/last_amb_hour_data?pMENU_NO=123
