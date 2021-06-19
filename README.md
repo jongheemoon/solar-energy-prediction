@@ -33,6 +33,8 @@
 
 #### - 변수간의 상관분석
 
+![img](https://lh3.googleusercontent.com/b2db0rNRq1SjBXRzs4DqNigW9lJlsyGrSnmSxHOVxcrQGhyc4YLJyQOPKlcGcpqlk5WRHUO9hdAKLSZXDl5oBTJpy_i_N6dv90iCLuWGUzwGU6Dbyi8VD7EZ7ZqFk6Sz)
+
 * 상관분석을 통해 습도, 일사량, 일조시간, 오존지수가 선형상관관계를 띄는 발전량의 중요 변수임을 파악
 
 ## 결과 및 개선방법
@@ -42,8 +44,6 @@
   
 
 ![스크린샷 2021-06-18 오전 12.48.08](README.assets/스크린샷 2021-06-18 오전 12.48.08.png)
-
-
 
 * 각각 전운량:48.3%, 발전량:54% 의 정확도 산출
 
